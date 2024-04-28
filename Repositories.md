@@ -8,10 +8,10 @@ Repositories contain all the website extensions. These repositories are built by
 
 Direct Install | Short Codes { class="compact" }
 :---: | :---:
-[!badge variant="secondary" icon="static/gb.png" text="English"](https://cutt.ly/6wyw1RnS) | `6wyw1RnS`
+[!badge variant="secondary" icon="static/gb.png" text="English"](cloudstreamrepo://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/repo.json) | `6wyw1RnS`
 [!badge variant="secondary" icon="static/world.png" text="Multilingual"](https://cutt.ly/Bwyw1S3k) | `Bwyw1S3k`
 [!badge variant="secondary" icon="static/jo.png" text="Arabic"](https://cutt.ly/Jwyw1ZiR) | `Jwyw1ZiR`
-[!badge variant="secondary" icon="static/world.png" text="Hexated"](https://cutt.ly/mwyw140i) | `mwyw140i`
+[!badge variant="secondary" icon="static/world.png" text="Hexated"](cloudstreamrepo://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json) | `mwyw140i`
 [!badge variant="secondary" icon="static/in.png" text="Likdev"](https://cutt.ly/bwyw0Mcv) | `bwyw0Mcv`
 [!badge variant="secondary" icon="static/es.png" text="Storm"](https://cutt.ly/Swyw03Nc) | `Swyw03Nc`
 [!badge variant="secondary" icon="static/cr.png" text="Crunchyroll"](https://cutt.ly/wwyw2e4x) | `wwyw2e4x`
